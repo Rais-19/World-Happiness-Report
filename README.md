@@ -1,2 +1,3 @@
 # World-Happiness-Report
 This project explores data from the World Happiness Report to understand how factors like GDP, social support, freedom, and life expectancy influence overall happiness scores across countries. The analysis includes trend tracking, regional comparisons, and correlation studies to identify what drives happiness globally.  
+Through visual storytelling and key metrics evaluation, this report highlights the differences between high-ranking and low-ranking countries, offering insights into social, economic, and governance-related factors that shape well-being. The project aims to inform data-driven discussions on global quality of life and development priorities.
